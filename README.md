@@ -1,1 +1,1 @@
-# sls-backend
+Kindly run "npm install" to install dependencies
